@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "plugins": [{ "name": "typescript-plugin-css-modules" }],
+    "moduleResolution": "node",
+    "module": "es6",
+    "target": "es5",
+    "allowJs": true,
+    "sourceMap": true
+  },
+  "files": ["src/index.ts"],
+  "include": ["src/*.d.ts"]
+}
