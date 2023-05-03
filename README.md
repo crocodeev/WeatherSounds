@@ -15,3 +15,5 @@ Homework for Result School module Typescript
 ## TODO
 - [ ] sound cache
 - [ ] sound artifact when switch sound from one paused soudn to another
+- [ ] load styles with webpack with '''<link>''''
+- [ ] preload sounds
